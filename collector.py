@@ -4,5 +4,5 @@ def collect_tokens():
     print("🚀 Pump Hunter Research Started")
 
     while True:
-        print("Scanning for new Pump.fun tokens...")
+        print("Scanning for new Pump.fun tokens every 60 seconds...")
         time.sleep(60)
